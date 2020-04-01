@@ -22,5 +22,4 @@ def runner
   message = selection(get_user_input)
   puts prompt_user
   puts message
-  binding.pry
 end
